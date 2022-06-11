@@ -1,6 +1,6 @@
 module.exports = {
     publicPath: process.env.NODE_ENV === 'production'
-        ? './Kenneth-s-portfolio/'
+        ? './kenneth-s-portfolio/'
         : './',
     css: { extract: false }
 }
